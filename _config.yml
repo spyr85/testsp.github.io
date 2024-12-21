@@ -45,18 +45,16 @@ social:
     url: https://www.facebook.com/spyros.poulos.5
   - title: Linkedin
     url: https://www.linkedin.com/in/spyros-poulos/
-  - title: bitbucket
-    url: 
   - title: github
     url: hhttps://github.com/spyr85
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Η Οδός μου
+  - line: ΤΚ 11122
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Spyros Poulos and co</a>.'
 
 # Build settings
 markdown: kramdown
